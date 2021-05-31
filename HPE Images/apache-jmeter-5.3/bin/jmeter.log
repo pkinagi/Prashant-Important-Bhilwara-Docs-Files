@@ -1,0 +1,145 @@
+2020-08-28 04:45:40,078 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2020-08-28 04:45:40,258 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-08-28 04:45:40,280 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-08-28 04:45:40,282 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2020-08-28 04:45:40,282 INFO o.a.j.JMeter: Version 5.3
+2020-08-28 04:45:40,282 INFO o.a.j.JMeter: java.version=1.8.0_261
+2020-08-28 04:45:40,282 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) Client VM
+2020-08-28 04:45:40,282 INFO o.a.j.JMeter: os.name=Windows 10
+2020-08-28 04:45:40,282 INFO o.a.j.JMeter: os.arch=x86
+2020-08-28 04:45:40,282 INFO o.a.j.JMeter: os.version=10.0
+2020-08-28 04:45:40,282 INFO o.a.j.JMeter: file.encoding=Cp1252
+2020-08-28 04:45:40,282 INFO o.a.j.JMeter: java.awt.headless=null
+2020-08-28 04:45:40,282 INFO o.a.j.JMeter: Max memory     =1073741824
+2020-08-28 04:45:40,282 INFO o.a.j.JMeter: Available Processors =4
+2020-08-28 04:45:40,359 INFO o.a.j.JMeter: Default Locale=English (EN)
+2020-08-28 04:45:40,360 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2020-08-28 04:45:40,360 INFO o.a.j.JMeter: JMeterHome=D:\apache-jmeter-5.3
+2020-08-28 04:45:40,360 INFO o.a.j.JMeter: user.dir  =D:\apache-jmeter-5.3\bin
+2020-08-28 04:45:40,360 INFO o.a.j.JMeter: PWD       =D:\apache-jmeter-5.3\bin
+2020-08-28 04:45:40,362 INFO o.a.j.JMeter: IP: 16.214.33.98 Name: DESKTOP-D27FDN2 FullName: DESKTOP-D27FDN2
+2020-08-28 04:45:40,725 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2020-08-28 04:45:41,418 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-08-28 04:45:48,794 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_10-6be2ad4262a52e832d0bd738da87fb86-gui
+2020-08-28 04:45:54,689 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.4, jmeter-core=5.3, jmeter-ftp=5.3, jmeter-http=5.3, jmeter-jdbc=5.3, jmeter-jms=5.3, jmeter-junit=5.3, jmeter-java=5.3, jmeter-ldap=5.3, jmeter-mail=5.3, jmeter-mongodb=5.3, jmeter-native=5.3, jmeter-tcp=5.3, jmeter-components=5.3]
+2020-08-28 04:46:08,114 INFO o.a.j.s.FileServer: Default base='D:\apache-jmeter-5.3\bin'
+2020-08-28 04:46:08,131 INFO o.a.j.g.a.Load: Loading file: D:\apache-jmeter-5.3\bin\SSD\OldSSDhpe.jmx
+2020-08-28 04:46:08,131 INFO o.a.j.s.FileServer: Set new base='D:\apache-jmeter-5.3\bin\SSD'
+2020-08-28 04:46:08,495 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-08-28 04:46:08,550 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-08-28 04:46:08,551 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-08-28 04:46:08,554 INFO o.a.j.s.SaveService: Loading file: D:\apache-jmeter-5.3\bin\SSD\OldSSDhpe.jmx
+2020-08-28 04:46:09,315 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-08-28 04:46:09,315 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-08-28 04:46:09,315 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-08-28 04:46:09,316 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-08-28 04:46:09,316 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-08-28 04:46:09,316 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-08-28 04:46:09,427 INFO o.a.j.e.KeyToolUtils: Exception checking for keytool existence, will return false, try another way.
+2020-08-28 04:46:10,786 INFO o.a.j.e.KeyToolUtils: keytool found at 'C:\Program Files (x86)\Java\jre1.8.0_261\bin\keytool'
+2020-08-28 04:46:10,786 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file D:\apache-jmeter-5.3\bin\proxyserver.jks
+2020-08-28 04:46:11,699 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-08-28 04:46:11,700 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-08-28 04:46:11,700 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-08-28 04:46:11,700 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-08-28 04:46:13,054 INFO o.a.j.s.FileServer: Set new base='D:\apache-jmeter-5.3\bin\SSD'
+2020-08-28 04:46:50,993 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-08-28 04:46:50,994 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-08-28 04:46:50,994 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-08-28 04:46:50,996 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-08-28 04:46:50,996 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-08-28 04:46:51,835 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-08-28 04:46:51,999 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : SSDhpe
+2020-08-28 04:46:51,999 INFO o.a.j.e.StandardJMeterEngine: Starting 20 threads for group SSDhpe.
+2020-08-28 04:46:51,999 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-08-28 04:46:51,999 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=20 ramp-up=5 delayedStart=false
+2020-08-28 04:46:52,071 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-1
+2020-08-28 04:46:52,107 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-D27FDN2
+2020-08-28 04:46:52,142 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-08-28 04:46:52,332 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-2
+2020-08-28 04:46:52,584 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-3
+2020-08-28 04:46:52,672 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2020-08-28 04:46:52,675 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2020-08-28 04:46:52,675 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2020-08-28 04:46:52,867 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-4
+2020-08-28 04:46:52,898 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-08-28 04:46:52,898 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-08-28 04:46:53,074 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-5
+2020-08-28 04:46:53,202 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2020-08-28 04:46:53,203 INFO o.a.j.u.SSLManager: KeyStore created OK
+2020-08-28 04:46:53,203 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2020-08-28 04:46:53,323 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-6
+2020-08-28 04:46:53,574 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-7
+2020-08-28 04:46:53,823 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-8
+2020-08-28 04:46:54,079 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-9
+2020-08-28 04:46:54,393 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-10
+2020-08-28 04:46:54,636 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-11
+2020-08-28 04:46:54,819 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-12
+2020-08-28 04:46:55,073 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-13
+2020-08-28 04:46:55,333 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-14
+2020-08-28 04:46:55,580 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-15
+2020-08-28 04:46:55,825 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-16
+2020-08-28 04:46:56,069 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-17
+2020-08-28 04:46:56,315 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-18
+2020-08-28 04:46:56,632 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-19
+2020-08-28 04:46:56,903 INFO o.a.j.t.JMeterThread: Thread started: SSDhpe 1-20
+2020-08-28 04:47:00,025 INFO o.a.j.r.Summariser: Generate Summary Results +    159 in 00:00:08 =   19.4/s Avg:   644 Min:   345 Max:  2469 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2020-08-28 04:47:30,102 INFO o.a.j.r.Summariser: Generate Summary Results +   1189 in 00:00:30 =   39.5/s Avg:   499 Min:   334 Max:  2997 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2020-08-28 04:47:30,105 INFO o.a.j.r.Summariser: Generate Summary Results =   1348 in 00:00:38 =   35.2/s Avg:   517 Min:   334 Max:  2997 Err:     0 (0.00%)
+2020-08-28 04:48:00,261 INFO o.a.j.r.Summariser: Generate Summary Results +    840 in 00:00:30 =   27.9/s Avg:   698 Min:   332 Max:  5548 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2020-08-28 04:48:00,262 INFO o.a.j.r.Summariser: Generate Summary Results =   2188 in 00:01:08 =   32.0/s Avg:   586 Min:   332 Max:  5548 Err:     0 (0.00%)
+2020-08-28 04:48:31,035 INFO o.a.j.r.Summariser: Generate Summary Results +    557 in 00:00:31 =   18.1/s Avg:  1047 Min:   334 Max:  9444 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2020-08-28 04:48:31,036 INFO o.a.j.r.Summariser: Generate Summary Results =   2745 in 00:01:39 =   27.7/s Avg:   680 Min:   332 Max:  9444 Err:     0 (0.00%)
+2020-08-28 04:49:30,035 INFO o.a.j.r.Summariser: Generate Summary Results +   1379 in 00:00:59 =   23.4/s Avg:   762 Min:   339 Max: 16338 Err:    17 (1.23%) Active: 20 Started: 20 Finished: 0
+2020-08-28 04:49:30,035 INFO o.a.j.r.Summariser: Generate Summary Results =   4124 in 00:02:38 =   26.1/s Avg:   707 Min:   332 Max: 16338 Err:    17 (0.41%)
+2020-08-28 04:50:00,063 INFO o.a.j.r.Summariser: Generate Summary Results +    933 in 00:00:30 =   31.1/s Avg:   450 Min:   372 Max:  1962 Err:     0 (0.00%) Active: 20 Started: 20 Finished: 0
+2020-08-28 04:50:00,064 INFO o.a.j.r.Summariser: Generate Summary Results =   5057 in 00:03:08 =   26.9/s Avg:   660 Min:   332 Max: 16338 Err:    17 (0.34%)
+2020-08-28 04:50:02,674 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-19
+2020-08-28 04:50:02,674 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-19
+2020-08-28 04:50:03,056 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-18
+2020-08-28 04:50:03,056 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-18
+2020-08-28 04:50:04,328 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-16
+2020-08-28 04:50:04,328 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-16
+2020-08-28 04:50:04,726 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-12
+2020-08-28 04:50:04,726 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-12
+2020-08-28 04:50:06,488 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-13
+2020-08-28 04:50:06,488 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-13
+2020-08-28 04:50:09,180 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-17
+2020-08-28 04:50:09,181 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-17
+2020-08-28 04:50:09,398 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-9
+2020-08-28 04:50:09,398 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-9
+2020-08-28 04:50:10,165 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-2
+2020-08-28 04:50:10,166 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-2
+2020-08-28 04:50:12,761 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-5
+2020-08-28 04:50:12,761 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-5
+2020-08-28 04:50:15,599 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-15
+2020-08-28 04:50:15,599 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-15
+2020-08-28 04:50:15,996 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-4
+2020-08-28 04:50:15,996 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-4
+2020-08-28 04:50:16,931 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-6
+2020-08-28 04:50:16,931 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-6
+2020-08-28 04:50:22,005 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-20
+2020-08-28 04:50:22,005 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-20
+2020-08-28 04:50:23,478 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-10
+2020-08-28 04:50:23,478 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-10
+2020-08-28 04:54:30,060 INFO o.a.j.r.Summariser: Generate Summary Results +    515 in 00:04:30 =    1.9/s Avg:  4164 Min:   356 Max: 323663 Err:    10 (1.94%) Active: 6 Started: 20 Finished: 14
+2020-08-28 04:54:30,061 INFO o.a.j.r.Summariser: Generate Summary Results =   5572 in 00:07:38 =   12.2/s Avg:   984 Min:   332 Max: 323663 Err:    27 (0.48%)
+2020-08-28 04:55:00,177 INFO o.a.j.r.Summariser: Generate Summary Results +    387 in 00:00:30 =   12.8/s Avg:   464 Min:   387 Max:  2533 Err:     0 (0.00%) Active: 6 Started: 20 Finished: 14
+2020-08-28 04:55:00,178 INFO o.a.j.r.Summariser: Generate Summary Results =   5959 in 00:08:08 =   12.2/s Avg:   950 Min:   332 Max: 323663 Err:    27 (0.45%)
+2020-08-28 04:55:16,409 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-3
+2020-08-28 04:55:16,410 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-3
+2020-08-28 04:55:24,935 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-8
+2020-08-28 04:55:24,935 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-8
+2020-08-28 04:55:28,215 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-1
+2020-08-28 04:55:28,215 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-1
+2020-08-28 04:55:28,605 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-11
+2020-08-28 04:55:28,605 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-11
+2020-08-28 04:55:29,251 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-14
+2020-08-28 04:55:29,252 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-14
+2020-08-28 04:55:30,054 INFO o.a.j.r.Summariser: Generate Summary Results +    361 in 00:00:30 =   12.1/s Avg:   437 Min:   384 Max:  2121 Err:     0 (0.00%) Active: 1 Started: 20 Finished: 19
+2020-08-28 04:55:30,055 INFO o.a.j.r.Summariser: Generate Summary Results =   6320 in 00:08:38 =   12.2/s Avg:   921 Min:   332 Max: 323663 Err:    27 (0.43%)
+2020-08-28 04:55:30,055 INFO o.a.j.t.JMeterThread: Thread is done: SSDhpe 1-7
+2020-08-28 04:55:30,055 INFO o.a.j.t.JMeterThread: Thread finished: SSDhpe 1-7
+2020-08-28 04:55:30,057 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-08-28 04:55:30,057 INFO o.a.j.r.Summariser: Generate Summary Results =   6320 in 00:08:38 =   12.2/s Avg:   921 Min:   332 Max: 323663 Err:    27 (0.43%)
+2020-08-28 04:55:30,058 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
